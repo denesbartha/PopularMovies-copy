@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="error_message">Error - failed to download the data...</string>
+
+    <string name="menu_ordering">Sort Order</string>
+    <string name="order_popular">Most Popular</string>
+    <string name="order_top_rated">Top Rated</string>
+    <string name="order_favourite">Favourites</string>
+
+    <string name="vote_average">Vote average:</string>
+    <string name="overview">Overview:</string>
+
+    <string name="trailers">Trailer videos:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="mark_as_favourite">MARK AS FAVOURITE</string>
+    <string name="unfavourite">MARK AS NOT FAVOURITE</string>
+</resources>
